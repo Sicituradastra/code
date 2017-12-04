@@ -30,7 +30,7 @@ gamma = 0.4
 at = 5.0
 a = 0.4
 
-pot_decay = 20
+pot_decay = 10
 case = 'hb_lower'
 mainpath = '/users/tkm/kanilmaz/thesis/'
 setups = {'hb_upper': ('results/hb_upper/supercurrent/', 'designfiles/hb_upper_part.png'),
